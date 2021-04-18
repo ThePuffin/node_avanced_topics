@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ThePuffin/node_avanced_topics#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pm2": "^4.5.6"
+    "pm2": "^4.5.6",
+    "webworker-threads": "^0.7.17"
   }
 }
