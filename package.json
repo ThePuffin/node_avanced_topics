@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ThePuffin/node_avanced_topics#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pm2": "^4.5.6"
   }
 }
